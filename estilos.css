@@ -1,0 +1,44 @@
+body {
+	/* #9edc5c */
+	background: #d8f58e;
+	font: Arial, Helvetica, sans-serif;
+}
+
+	#principal {
+		width: 900px;
+		align-items: center;
+	}
+
+	#menu {
+		background: #aec476;
+		padding: 15px;
+
+	}
+
+	#conteudo {
+
+		padding: 10px;
+		background: #c5d49f;
+		font-size: 17px;
+		font-weight
+	}
+
+	#rodape{
+
+		text-align: center;
+
+
+	}
+
+	.fotos-campanha {
+		width: 850px;
+		border: 10px solid #95ad6f;
+
+	}
+
+	a{
+		text-decoration: none;
+		color: #2f4a1a;
+		font-weight: bold;
+		padding: 5px;
+	}
